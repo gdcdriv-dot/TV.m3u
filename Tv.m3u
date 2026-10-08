@@ -1,0 +1,36 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Bangla Movie", Jalsha Movies HDhttp://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla Movie", Star Jalsha HD
+http://example.com/zee_bangla_cinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/zee_bangla_logo.png" group-title="Bangla Movie", Zee Bangla Cinema
+http://example.com/zee_bangla_cinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/sony_sports_logo.png" group-title="Sports", Sony Sports Ten 1
+http://example.com/sony_sports_ten_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/cn_logo.png" group-title="Cartoon", Cartoon Network
+http://example.com/cartoon_network.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/pogo_logo.png" group-title="Cartoon", Pogo TV
+http://example.com/pogo.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/nick_logo.png" group-title="Cartoon", Nickelodeon
+http://example.com/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/disney_logo.png" group-title="Cartoon", Disney Channel
+http://example.com/disney_channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/hungama_logo.png" group-title="Cartoon", Hungama TV
+http://example.com/hungama_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/aajtak_logo.png" group-title="Hindi News", Aaj Tak
+http://example.com/aaj_tak.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/abp_logo.png" group-title="Bangla News", ABP Ananda
+http://example.com/abp_ananda.m3u8
+
+
